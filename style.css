@@ -1,0 +1,10 @@
+.container{
+    position: relative;
+}
+
+#loading{
+    position: absolute;
+    left: 450px;
+    top: 100px;
+    display: none;
+}
